@@ -7,3 +7,4 @@ $ git branch -M main
 $ git push -u origin main
 
 commandes push : "git push origin [nom de la branche]"   "git push -u origin [nom de la branche]"   "git push --all"
+commandes pull : "git fetch"  "git merge"
