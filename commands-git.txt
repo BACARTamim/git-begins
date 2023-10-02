@@ -1,0 +1,9 @@
+﻿
+$git clone https://github.com/tamim.bacar/shell.git
+$ git add . 
+$ git commit -m "Shell project report"
+$ git remote add origin https://github.com/tamim.bacar/shell.git
+$ git branch -M main
+$ git push -u origin main
+
+commandes push : "git push origin [nom de la branche]"   "git push -u origin [nom de la branche]"   "git push --all"
